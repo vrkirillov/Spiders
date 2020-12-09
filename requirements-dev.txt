@@ -1,0 +1,4 @@
+black
+isort
+pre-commit
+scrapy>=2.3.0
